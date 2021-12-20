@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/western/scenes/westren.unity
+    guid: 2accf40749c75fd47aa705db48582658
   m_configObjects: {}
